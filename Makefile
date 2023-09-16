@@ -3,6 +3,6 @@ filename = Assignment1
 all: compile run
 
 compile:
-	javac $(filename).java
+	javac $(Jeremys_Assignment1).java
 run:
-	java $(filename).java
+	java $(Jeremys_Assignment1).java
