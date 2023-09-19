@@ -1,8 +1,8 @@
-filename = Assignment1
+filename = Jeremys_Assignment1
 
 all: compile run
 
 compile:
-	javac $(Jeremys_Assignment1).java
+	javac $(filename).java
 run:
-	java $(Jeremys_Assignment1).java
+	java $(filename).java
