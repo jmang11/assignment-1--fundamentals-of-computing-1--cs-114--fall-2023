@@ -26,5 +26,8 @@ public class Jeremys_Assignment1 {
     
     int userFahrenheit;
     int calcCelcius;
+    String userString;
+    String stringSave1, stringSave2;
+
   }
 }
