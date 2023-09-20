@@ -20,6 +20,7 @@ public class Jeremys_Assignment1 {
     String userString;
     String stringSave1, stringSave2;
     final double convertionFactor = 5.0/9.0;
+    final int base = 32;
 
     Scanner scan = new Scanner(System.in);
 
