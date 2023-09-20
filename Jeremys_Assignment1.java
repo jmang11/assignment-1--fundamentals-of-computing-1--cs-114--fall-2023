@@ -19,14 +19,14 @@ public class Jeremys_Assignment1 {
     double calcCelsius;
     String userString;
     String stringSave1, stringSave2;
-    final double convertionFactor = 5.0/9.0;
+    final double conversionFactor = 5.0/9.0;
     final int base = 32;
 
     Scanner scan = new Scanner(System.in);
 
     System.out.println("Enter a degree in Fahrenheit:");
     userFahrenheit = scan.nextDouble();
-    calcCelsius = (userFahrenheit-base) * convertionFactor;
+    calcCelsius = (userFahrenheit-base) * conversionFactor;
 
     System.out.println("Enter a String of 5-Characters:");
     userString = scan.next();
