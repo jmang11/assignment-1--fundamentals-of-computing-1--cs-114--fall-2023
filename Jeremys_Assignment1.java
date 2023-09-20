@@ -1,21 +1,22 @@
 // Import libraries here
 // Jeremy Mangiameli
+import java.util.Scanner;
 
 public class Jeremys_Assignment1 {
   public static void main(String[] args) {
-    System.out.println(x:'      JJJJJJJJJJJJJJJJJ MMMMMMM           MMMMMMM');
-    System.out.println(x:'      JJJJJJJJJJJJJJJJJ MMMMMMMM         MMMMMMMM');
-    System.out.println(x:'            JJJJJ       MMMM MMMM       MMMM MMMM');
-    System.out.println(x:'            JJJJJ       MMMM  MMMM     MMMM  MMMM');
-    System.out.println(x:'            JJJJJ       MMMM   MMMM   MMMM   MMMM');
-    System.out.println(x:'            JJJJJ       MMMM    MMMM MMMM    MMMM');
-    System.out.println(x:'   JJJJ     JJJJJ       MMMM     MMMMMMM     MMMM');
-    System.out.println(x:'   JJJJ     JJJJJ       MMMM      MMMMM      MMMM');
-    System.out.println(x:'    JJJJ   JJJJJ        MMMM       MMM       MMMM');
-    System.out.println(x:'      JJJJJJJJ          MMMM                 MMMM');
-    
+    System.out.println("      JJJJJJJJJJJJJJJJJ MMMMMMM           MMMMMMM");
+    System.out.println("      JJJJJJJJJJJJJJJJJ MMMMMMMM         MMMMMMMM");
+    System.out.println("            JJJJJ       MMMM MMMM       MMMM MMMM");
+    System.out.println("            JJJJJ       MMMM  MMMM     MMMM  MMMM");
+    System.out.println("            JJJJJ       MMMM   MMMM   MMMM   MMMM");
+    System.out.println("            JJJJJ       MMMM    MMMM MMMM    MMMM");
+    System.out.println("   JJJJ     JJJJJ       MMMM     MMMMMMM     MMMM");
+    System.out.println("   JJJJ     JJJJJ       MMMM      MMMMM      MMMM");
+    System.out.println("    JJJJ   JJJJJ        MMMM       MMM       MMMM");
+    System.out.println("      JJJJJJJJ          MMMM                 MMMM");
+
     int userFahrenheit;
-    int calcCelcius;
+    int calcCelsius;
     String userString;
     String stringSave1, stringSave2;
 
