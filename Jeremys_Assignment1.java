@@ -38,5 +38,8 @@ public class Jeremys_Assignment1 {
     final int max = 16384;
     final int min = 32;
 
+    Random rand = new Random();
+    int randomNumber = rand.nextInt((max-min)+1)+min;
+
   }
 }
