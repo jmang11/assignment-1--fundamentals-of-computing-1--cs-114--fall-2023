@@ -19,6 +19,7 @@ public class Jeremys_Assignment1 {
     double calcCelsius;
     String userString;
     String stringSave1, stringSave2;
+    final double convertionFactor = 5.0/9.0;
 
     Scanner scan = new Scanner(System.in);
 
