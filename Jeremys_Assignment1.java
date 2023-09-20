@@ -31,5 +31,7 @@ public class Jeremys_Assignment1 {
 
     Scanner scan = new Scanner(System.in);
 
+    System.println(x:"Enter a degree in Fahrenheit:");
+    userFahrenheit = scan.nextInt();
   }
 }
