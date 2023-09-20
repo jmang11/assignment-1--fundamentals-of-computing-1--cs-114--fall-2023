@@ -34,6 +34,7 @@ public class Jeremys_Assignment1 {
     System.println(x:"Enter a degree in Fahrenheit:");
     userFahrenheit = scan.nextInt();
     calcCelcius = (userFahrenheit-32)*(5/9)
+    calcCelsius = (userFahrenheit-32)*(5/9)
 
     System.println(x:"Enter a String of 5-Characters:");
     userString = scan.nextInt();
