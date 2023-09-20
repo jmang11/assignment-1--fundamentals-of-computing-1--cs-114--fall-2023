@@ -1,6 +1,7 @@
 // Import libraries here
 // Jeremy Mangiameli
 import java.util.Scanner;
+import java.util.Random;
 
 public class Jeremys_Assignment1 {
   public static void main(String[] args) {
