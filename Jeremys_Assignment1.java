@@ -15,8 +15,8 @@ public class Jeremys_Assignment1 {
     System.out.println("    JJJJ   JJJJJ        MMMM       MMM       MMMM");
     System.out.println("      JJJJJJJJ          MMMM                 MMMM");
 
-    int userFahrenheit;
-    int calcCelsius;
+    double userFahrenheit;
+    double calcCelsius;
     String userString;
     String stringSave1, stringSave2;
 
