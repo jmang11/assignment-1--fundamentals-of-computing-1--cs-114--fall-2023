@@ -29,5 +29,7 @@ public class Jeremys_Assignment1 {
     String userString;
     String stringSave1, stringSave2;
 
+    Scanner scan = new Scanner(System.in);
+
   }
 }
