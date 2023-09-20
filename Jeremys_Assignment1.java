@@ -15,10 +15,7 @@ public class Jeremys_Assignment1 {
     System.out.println("    JJJJ   JJJJJ        MMMM       MMM       MMMM");
     System.out.println("      JJJJJJJJ          MMMM                 MMMM");
 
-    double userFahrenheit;
-    double calcCelsius;
-    String userString;
-    String stringSave1, stringSave2;
+    double userFahrenheit, calcCelsius;
     final double conversionFactor = 5.0/9.0;
     final int base = 32;
 
@@ -28,11 +25,15 @@ public class Jeremys_Assignment1 {
     userFahrenheit = scan.nextDouble();
     calcCelsius = (userFahrenheit-base) * conversionFactor;
 
+    String userString, stringSave1, stringSave2;
+
     System.out.println("Enter a String of 5-Characters:");
     userString = scan.next();
     stringSave1 = userString.substring(1,4);
     stringSave2 = new StringBuilder(stringSave1).reverse().toString();
 
     scan.close();
+
+
   }
 }
