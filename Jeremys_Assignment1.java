@@ -35,6 +35,7 @@ public class Jeremys_Assignment1 {
 
     scan.close();
 
+    final int max = 16384;
 
   }
 }
