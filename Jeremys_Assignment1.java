@@ -22,13 +22,14 @@ public class Jeremys_Assignment1 {
 
     Scanner scan = new Scanner(System.in);
 
-    System.println(x:"Enter a degree in Fahrenheit:");
+    System.out.println("Enter a degree in Fahrenheit:");
     userFahrenheit = scan.nextInt();
-    calcCelsius = (userFahrenheit-32)*(5/9)
+    calcCelsius = (userFahrenheit-32)*(5/9);
 
-    System.println(x:"Enter a String of 5-Characters:");
-    userString = scan.nextInt();
-    scan.close()
+    System.out.println("Enter a String of 5-Characters:");
+    //userString = Scanner scan;
+    //stringSave1 =
 
+    scan.close();
   }
 }
