@@ -25,8 +25,8 @@ public class Jeremys_Assignment1 {
     Scanner scan = new Scanner(System.in);
 
     System.out.println("Enter a degree in Fahrenheit:");
-    userFahrenheit = scan.nextInt();
-    calcCelsius = (userFahrenheit-32)*(5/9);
+    userFahrenheit = scan.nextDouble();
+    calcCelsius = (userFahrenheit-base) * convertionFactor;
 
     System.out.println("Enter a String of 5-Characters:");
     userString = scan.next();
