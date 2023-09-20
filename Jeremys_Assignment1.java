@@ -28,6 +28,7 @@ public class Jeremys_Assignment1 {
 
     System.out.println("Enter a String of 5-Characters:");
     userString = scan.next();
+    System.out.println(stringSave1);
 
     scan.close();
   }
