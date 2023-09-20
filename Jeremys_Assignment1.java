@@ -27,7 +27,7 @@ public class Jeremys_Assignment1 {
     calcCelsius = (userFahrenheit-32)*(5/9);
 
     System.out.println("Enter a String of 5-Characters:");
-    //userString = Scanner scan;
+    userString = scan.String();
     //stringSave1 =
 
     scan.close();
