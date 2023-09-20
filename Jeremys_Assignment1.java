@@ -41,5 +41,7 @@ public class Jeremys_Assignment1 {
     Random rand = new Random();
     int randomNumber = rand.nextInt((max-min)+1)+min;
 
+    System.out.println("Random number generated. Computing...");
+    System.out.println("Your final string is "+ calcCelsius + stringSave2 + randomNumber);
   }
 }
