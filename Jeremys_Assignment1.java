@@ -35,5 +35,7 @@ public class Jeremys_Assignment1 {
     userFahrenheit = scan.nextInt();
     calcCelcius = (userFahrenheit-32)*(5/9)
 
+    System.println(x:"Enter a String of 5-Characters:");
+    userString = scan.nextInt();
   }
 }
