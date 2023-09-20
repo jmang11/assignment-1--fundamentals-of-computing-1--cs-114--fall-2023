@@ -23,5 +23,8 @@ public class Jeremys_Assignment1 {
     System.out.println(x:'   JJJJ     JJJJJ       MMMM      MMMMM      MMMM');
     System.out.println(x:'    JJJJ   JJJJJ        MMMM       MMM       MMMM');
     System.out.println(x:'      JJJJJJJJ          MMMM                 MMMM');
+    
+    int userFahrenheit;
+    int calcCelcius;
   }
 }
