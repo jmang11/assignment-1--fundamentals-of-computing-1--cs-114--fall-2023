@@ -37,5 +37,7 @@ public class Jeremys_Assignment1 {
 
     System.println(x:"Enter a String of 5-Characters:");
     userString = scan.nextInt();
+    scan.close()
+
   }
 }
