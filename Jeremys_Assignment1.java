@@ -33,5 +33,7 @@ public class Jeremys_Assignment1 {
 
     System.println(x:"Enter a degree in Fahrenheit:");
     userFahrenheit = scan.nextInt();
+    calcCelcius = (userFahrenheit-32)*(5/9)
+
   }
 }
